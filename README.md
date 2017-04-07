@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenu sûr le projet RP.
 
 You can use the [editor on GitHub](https://github.com/LaPizzaTV/SecretProjetPiz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
